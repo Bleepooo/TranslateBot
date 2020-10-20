@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact build-on-make="true" name="TranslateBot:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/TranslateBot_jar</output-path>
+    <root id="root">
+      <element id="archive" name="TranslateBot.jar">
+        <element id="module-output" name="TranslateBot" />
+      </element>
+      <element id="library" level="project" name="JDA-4.2.0_168-withDependencies" />
+    </root>
+  </artifact>
+</component>

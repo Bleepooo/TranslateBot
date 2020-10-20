@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Main-Class: org.l2x9.translatebot.Main
+Class-Path: JDA-4.2.0_168-withDependencies.jar
+
