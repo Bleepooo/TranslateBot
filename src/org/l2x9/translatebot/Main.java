@@ -13,7 +13,7 @@ public class Main {
     private static GoogleTranslate googleTranslate;
 
     public static void main(String[] args) {
-        builder = JDABuilder.createDefault("NzYyNTQ2MzU1NTU4MDIzMTg5.X3quog.sTUO0TCb_LNenel6Lnfl_X0SFHI");
+        builder = JDABuilder.createDefault("");
         builder.setActivity(Activity.watching("#Announcements"));
         builder.setStatus(OnlineStatus.IDLE);
         try {
