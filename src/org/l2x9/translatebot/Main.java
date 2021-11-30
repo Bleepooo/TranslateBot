@@ -13,8 +13,8 @@ public class Main {
     private static GoogleTranslate googleTranslate;
 
     public static void main(String[] args) {
-        builder = JDABuilder.createDefault("");
-        builder.setActivity(Activity.watching("#Announcements"));
+        builder = JDABuilder.createDefault("Token go here lel");
+        builder.setActivity(Activity.watching("L2X9"));
         builder.setStatus(OnlineStatus.IDLE);
         try {
             jda = builder.build();
